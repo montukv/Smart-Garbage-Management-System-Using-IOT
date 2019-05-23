@@ -1,0 +1,16 @@
+software : 
+
+Node Red (ON raspberry pi for connecting blynk to raspberry pi)
+Python > version 2.0
+Blynk application 
+Blynk local server
+nodejs (latest version on raspberry pi)
+
+
+Hardware: 
+
+raspberry pi 3 B
+ultrasonic sensor HCSO4
+jumper wires (4 male - female )
+three resisters (1k ohm)
+breadboard
