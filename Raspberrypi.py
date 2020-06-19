@@ -1,4 +1,4 @@
-#code for testing the ultrasoinc sensor
+#code for testing the  ultrasoinc sensor
 
 
 import RPi.GPIO as GPIO
